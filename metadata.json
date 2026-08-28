@@ -2,5 +2,7 @@
   "name": "London Pet ID",
   "description": "Smart NFC pet ID tags for dogs and cats in London, Ontario and Middlesex County. One-tap instant contact with no apps, no batteries, and no subscription fees.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

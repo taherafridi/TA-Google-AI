@@ -48,7 +48,7 @@ export const Hero: React.FC<HeroProps> = ({
 
             {/* Subhead */}
             <p className="text-lg sm:text-xl text-slate-700 font-normal leading-relaxed max-w-2xl">
-              A smart <strong className="font-semibold text-slate-900">NFC ID tag</strong> for London, Ontario dogs and cats. One tap helps your pet get home fast — <span className="text-slate-900 font-medium">no app, no battery, no QR code</span>, ready to use out of the box.
+              A smart <strong className="font-semibold text-slate-900">NFC ID tag</strong> for London, Ontario dogs and cats. One tap helps your pet get home fast — <span className="text-slate-900 font-medium">no app, no battery, no subscriptions, and no QR code</span>, ready to use out of the box.
             </p>
 
             {/* Value Highlights Pill Grid */}
